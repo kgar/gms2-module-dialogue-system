@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"scr_dialogue_enums","order":2,"path":"scripts/scr_dialogue_enums/scr_dialogue_enums.yy",},
+    {"name":"scr_DialogueChoiceDriver","order":3,"path":"scripts/scr_DialogueChoiceDriver/scr_DialogueChoiceDriver.yy",},
+    {"name":"scr_draw_nine_panel_textbox","order":4,"path":"scripts/scr_draw_nine_panel_textbox/scr_draw_nine_panel_textbox.yy",},
+    {"name":"fnt_debug","order":2,"path":"fonts/fnt_debug/fnt_debug.yy",},
+    {"name":"spr_portrait_other_narrator","order":3,"path":"sprites/spr_portrait_other_narrator/spr_portrait_other_narrator.yy",},
+    {"name":"fnt_dialogue","order":1,"path":"fonts/fnt_dialogue/fnt_dialogue.yy",},
+    {"name":"spr_portrait_narrator","order":1,"path":"sprites/spr_portrait_narrator/spr_portrait_narrator.yy",},
+    {"name":"scr_dialogue","order":1,"path":"scripts/scr_dialogue/scr_dialogue.yy",},
+    {"name":"spr_portrait_narrator_speaking","order":2,"path":"sprites/spr_portrait_narrator_speaking/spr_portrait_narrator_speaking.yy",},
+    {"name":"snd_select","order":1,"path":"sounds/snd_select/snd_select.yy",},
+    {"name":"scr_global_data","order":3,"path":"scripts/scr_global_data/scr_global_data.yy",},
+    {"name":"scr_utilities","order":1,"path":"scripts/scr_utilities/scr_utilities.yy",},
+    {"name":"spr_portrait_other_narrator_speaking","order":4,"path":"sprites/spr_portrait_other_narrator_speaking/spr_portrait_other_narrator_speaking.yy",},
+    {"name":"obj_demo_controller","order":1,"path":"objects/obj_demo_controller/obj_demo_controller.yy",},
+    {"name":"obj_sequential_loop_animation_tracker","order":2,"path":"objects/obj_sequential_loop_animation_tracker/obj_sequential_loop_animation_tracker.yy",},
+    {"name":"spr_pointer","order":5,"path":"sprites/spr_pointer/spr_pointer.yy",},
+  ],
+}

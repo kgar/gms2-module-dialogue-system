@@ -28,6 +28,7 @@ function draw_set_halign_temp(halign, action) {
 
 function array_insert_at(array, index, itemToInsert) {
 	var length = array_length(array) + 1;
+	array_resize(array, length);
 	var itemToShift = itemToInsert;
 	for (var i = index; i < length; i++) {
 		var currentItem = array[i];
